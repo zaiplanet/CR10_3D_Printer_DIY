@@ -12,9 +12,7 @@
 8. Use UART to connect Pi with Gen L
 9. On the RPI, I used pins 8: TXD (data send), 9: ground, and 10: RXD (data receive).
 10. I connected these wires to pins in the AUX-1 header of Gen L.
-   8.1. RPI pin 8 (data send) to MKS gen L RX (data receive).
-   8.2. RPI pin 9 (ground) to MKS gen L GND (ground).
-   8.3. RPI pin 10 (data recieve) to MKS gen L TX (data send).
+11. RPI pin 8 (data send) to MKS gen L RX (data receive) / RPI pin 9 (ground) to MKS gen L GND (ground) / RPI pin 10 (data recieve) to MKS gen L TX (data send)
    
    ![image](https://user-images.githubusercontent.com/58675403/175226012-9c2d7df7-666f-4cad-aa89-2f4641ef2888.png)
    
