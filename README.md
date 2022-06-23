@@ -31,3 +31,6 @@
 14. Then rebooted, closed everything up, and powered up my printer.
 16. Edit klipper config file follow this https://www.klipper3d.org/Config_Reference.html
 17. Check klipper configuration follow this https://www.klipper3d.org/Config_checks.html
+
+
+- Klipper Arduino pin map: https://github.com/Klipper3d/klipper/blob/master/config/sample-aliases.cfg
